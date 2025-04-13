@@ -1,0 +1,3 @@
+let temperatureF =56;
+const celsius = (temperatureF - 32)/1.8
+console.log(celsius)
